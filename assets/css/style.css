@@ -1,0 +1,52 @@
+body{
+    background-color: skyblue;
+
+    }
+    h1{
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    width:240px;
+    margin-left: 200px;
+
+
+    }
+    img {
+    width:150px;
+    }
+    .crystals{
+    float: left;
+    padding: 20px;
+    }
+    #crystal4 {
+    height:150px;
+    }
+    #targetNumber {
+    clear: both;
+    margin-left:28px;
+    color:white;
+    background-color: green;
+    width:150px;
+    padding:10px 20px;
+    }
+    #results{
+    clear: both;
+    margin-left:28px;
+    color:white;
+    background-color: green;
+    width:150px;
+    padding:10px 20px;
+    margin-top:10px;          
+    }
+    .data {
+    float: left;
+    }
+    #userTotal {
+    clear: both;
+    margin-left:28px;
+    color:white;
+    background-color: green;
+    width:150px;
+    padding:10px 20px;
+    margin-top:10px;  
+    }
